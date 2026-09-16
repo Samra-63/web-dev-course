@@ -4,39 +4,76 @@
 
 ### From Fundamentals to Full Build
 
-A **12-week hands-on journey** through HTML, CSS & JavaScript —
+A **12-week hands-on journey** through HTML, CSS & JavaScript
 from understanding how the browser works to building clean, responsive interfaces.
 
 <br>
 
-<kbd>12 WEEKS</kbd>
-   <kbd>HTML</kbd>
-   <kbd>CSS</kbd>
-   <kbd>JAVASCRIPT</kbd>
+<table align="center">
+<tr>
+<td align="center" width="160">
+<h2>01</h2>
+<strong>HTML</strong>
+<br>
+<sub>Structure</sub>
+</td>
 
-<br><br>
+<td align="center" width="45">
+<h2>→</h2>
+</td>
 
-[Overview](#overview) · [Roadmap](#learning-path) · [Materials](#repository-structure) · [Tracker](#live-syllabus--weekly-tracking) · [Mentor](#instructor--mentorship)
+<td align="center" width="160">
+<h2>02</h2>
+<strong>CSS</strong>
+<br>
+<sub>Style</sub>
+</td>
+
+<td align="center" width="45">
+<h2>→</h2>
+</td>
+
+<td align="center" width="160">
+<h2>03</h2>
+<strong>JAVASCRIPT</strong>
+<br>
+<sub>Logic</sub>
+</td>
+
+<td align="center" width="45">
+<h2>→</h2>
+</td>
+
+<td align="center" width="160">
+<h2>04</h2>
+<strong>FULL BUILD</strong>
+<br>
+<sub>Put it together</sub>
+</td>
+</tr>
+</table>
+
+<br>
+
+<i>Learn it. Write it. Break it. Understand it.</i>
 
 </div>
 
 ---
 
-## Overview
+## Why This Repository Exists
 
-A lot of beginner coding tutorials throw frameworks and complex jargon at students before they even understand how the browser actually reads markup.
+A lot of beginner tutorials introduce frameworks and complex concepts before students understand what is actually happening underneath.
 
-**This repository exists to break that cycle.**
-
-The goal is simple:
+This mentorship takes a different approach.
 
 > **Understand the fundamentals → experiment with the code → build things yourself.**
 
-This repository contains the complete learning material for a **12-week web development mentorship cohort**, including lecture slides, live coding demos, practical assignments, and weekly learning resources.
+This repository brings together the material used throughout the **12-week mentorship**, including lecture slides, live coding demos, practical assignments, and supporting resources.
 
 No framework-first shortcuts.
-No passive learning.
-Just the foundations that make everything else easier to understand.
+No learning by watching alone.
+Just the foundations you can build everything else on.
 
 ---
 
@@ -44,35 +81,28 @@ Just the foundations that make everything else easier to understand.
 
 <table align="center">
 <tr>
-<td align="center" width="180">
 
-### 12
-
-**Weeks**
-
-Structured weekly learning
-
+<td align="center" width="220">
+<h2>12</h2>
+<strong>WEEKS</strong>
+<br>
+<sub>Structured learning journey</sub>
 </td>
 
-<td align="center" width="180">
-
-### 3
-
-**Core Technologies**
-
-HTML · CSS · JavaScript
-
+<td align="center" width="220">
+<h2>3</h2>
+<strong>CORE TECHNOLOGIES</strong>
+<br>
+<sub>HTML · CSS · JavaScript</sub>
 </td>
 
-<td align="center" width="180">
-
-### 3
-
-**Learning Resources**
-
-Lectures · Demos · Assignments
-
+<td align="center" width="220">
+<h2>3</h2>
+<strong>CORE RESOURCES</strong>
+<br>
+<sub>Lectures · Demos · Assignments</sub>
 </td>
+
 </tr>
 </table>
 
@@ -80,31 +110,23 @@ Lectures · Demos · Assignments
 
 ## Learning Path
 
-<div align="center">
+```text
+WEB BASICS
+    ↓
+HTML & SEMANTIC STRUCTURE
+    ↓
+CSS & LAYOUTS
+    ↓
+RESPONSIVE DESIGN
+    ↓
+JAVASCRIPT
+    ↓
+DOM & BROWSER INTERACTION
+    ↓
+FULL FRONT-END BUILD
+```
 
-<kbd>HTML</kbd>
- →  <kbd>CSS</kbd>
- →  <kbd>RESPONSIVE DESIGN</kbd>
- →  <kbd>JAVASCRIPT</kbd>
- →  <kbd>DOM</kbd>
- →  <kbd>FULL BUILD</kbd>
-
-</div>
-
-<br>
-
-The cohort is designed to move gradually from **understanding the web** to actually **building for it**.
-
-| Stage | Focus                                  |
-| ----- | -------------------------------------- |
-| `01`  | Web & HTML fundamentals                |
-| `02`  | Semantic structure & clean markup      |
-| `03`  | CSS fundamentals & layouts             |
-| `04`  | Responsive design                      |
-| `05`  | JavaScript fundamentals                |
-| `06`  | DOM & browser interaction              |
-| `07`  | Putting everything together            |
-| `08`  | Building complete front-end interfaces |
+The course moves from **understanding how the web works** to building complete, responsive front-end interfaces.
 
 ---
 
@@ -112,18 +134,19 @@ The cohort is designed to move gradually from **understanding the web** to actua
 
 <table>
 <tr>
+
 <td width="33%" valign="top">
 
 ### Complete Beginners
 
-Want to understand how the web actually works instead of jumping directly into frameworks.
+Want to understand how websites actually work before jumping into frameworks.
 
 **You'll learn:**
 
 * Client & server basics
 * HTML structure
 * Semantic markup
-* How browsers interpret pages
+* Browser fundamentals
 
 </td>
 
@@ -131,14 +154,14 @@ Want to understand how the web actually works instead of jumping directly into f
 
 ### Early Learners
 
-Know some syntax but struggle to turn it into proper layouts and working interfaces.
+Know some syntax but struggle to turn it into layouts and working interfaces.
 
 **You'll practice:**
 
 * CSS organization
 * Layout systems
 * Responsive design
-* Native JavaScript logic
+* JavaScript logic
 
 </td>
 
@@ -146,9 +169,9 @@ Know some syntax but struggle to turn it into proper layouts and working interfa
 
 ### Aspiring Developers
 
-Want structured practice instead of only watching tutorials.
+Want a structured path with actual practice instead of only watching tutorials.
 
-**You'll get:**
+**You'll work with:**
 
 * Weekly assignments
 * Practical exercises
@@ -156,24 +179,35 @@ Want structured practice instead of only watching tutorials.
 * Code review & feedback
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-## Live Syllabus & Weekly Tracking
+## Live Course Guide
 
-The learning plan and attendance are maintained separately so the cohort can stay updated throughout the 12 weeks.
+Instead of keeping a static syllabus here that can become outdated, the complete **12-week course roadmap** is maintained in a live tracker.
+
+It brings the course into one place, including:
+
+* Weekly topics and session breakdowns
+* Lecture and learning resources
+* Class dates and schedule
+* Weekly assignments
+* Attendance and participation
+* Assignment submission tracking
+* What's already covered and what's coming next
+
+So if you ever wonder **“What are we doing this week?”**, the tracker has the answer.
 
 <div align="center">
 
-### 12-Week Syllabus & Attendance
-
-**Check the sheet weekly for session outlines and assignment submission status.**
-
-[Open Live Tracker →](https://docs.google.com/spreadsheets/d/1Xf_u91eGd9WgrLrstOVd0V27suUVBBQyHBKBxaRm_Dc/edit?usp=sharing)
+### [Open Live 12-Week Course Guide ↗](https://docs.google.com/spreadsheets/d/1Xf_u91eGd9WgrLrstOVd0V27suUVBBQyHBKBxaRm_Dc/edit?usp=sharing)
 
 </div>
+
+*Check the tracker regularly for the latest session details, resources, assignments, and progress.*
 
 ---
 
@@ -198,58 +232,37 @@ The learning plan and attendance are maintained separately so the cohort can sta
 └── README.md
 ```
 
-<table>
-<tr>
-<td width="33%" valign="top">
-
 ### `lectures/`
 
-Weekly slide decks and session material.
+Weekly slides and session material.
 
-Use these to understand the concepts before jumping into the code.
-
-</td>
-
-<td width="33%" valign="top">
+Start here when you want to understand the concept before working with the code.
 
 ### `code-demos/`
 
-The actual code written during live sessions.
+The code written during live sessions.
 
-Not overly polished.
-Not meant to be copied blindly.
+These are intentionally close to the way code is written while learning.
 
-Open it, change it, break it.
-
-</td>
-
-<td width="33%" valign="top">
+**Open it. Change it. Break it.**
 
 ### `assignments/`
 
-Weekly problem prompts and practical exercises designed to make you write the code yourself.
-
-</td>
-</tr>
-</table>
+Weekly exercises designed to make you apply the concepts yourself rather than simply copy the demo.
 
 ---
 
 ## Current Materials
 
-### Week 01 — Start Here
+### Week 01
 
-<div align="center">
-
-| Resource            | Access                                                 |
-| ------------------- | ------------------------------------------------------ |
-| **Lecture 01**      | [Open PDF →](./lectures/lecture_1.pdf)                 |
-| **Lecture 02**      | [Open PDF →](./lectures/lecture_2.pdf)                 |
-| **Session 01 Demo** | [Open Code →](./code-demos/lecture-1-practice.html)    |
-| **Session 02 Demo** | [Open Code →](./code-demos/lecture-2-practice.html)    |
-| **Assignment 01**   | [Open Prompt →](./assignments/Weekly_Assignment_1.pdf) |
-
-</div>
+| Resource            | Access                                               |
+| ------------------- | ---------------------------------------------------- |
+| **Lecture 01**      | [Open PDF](./lectures/lecture_1.pdf)                 |
+| **Lecture 02**      | [Open PDF](./lectures/lecture_2.pdf)                 |
+| **Session 01 Demo** | [Open Code](./code-demos/lecture-1-practice.html)    |
+| **Session 02 Demo** | [Open Code](./code-demos/lecture-2-practice.html)    |
+| **Assignment 01**   | [Open Prompt](./assignments/Weekly_Assignment_1.pdf) |
 
 > New weekly modules, code demos, and assignment PDFs are committed every weekend.
 
@@ -261,15 +274,15 @@ Don't treat this repository like a folder of notes.
 
 Use it as a **hands-on learning space**.
 
-### `01` — Learn
+### `01` Learn
 
-Start with the lecture slides and understand the concept before opening the demo.
+Start with the lecture material and understand the concept before opening the demo.
 
-### `02` — Run
+### `02` Run
 
-Clone or download the repository and open the practice files in your browser.
+Clone the repository and open the practice files in your browser.
 
-### `03` — Experiment
+### `03` Experiment
 
 Open the code in VS Code.
 
@@ -277,13 +290,13 @@ Change values.
 Remove properties.
 Add your own elements.
 
-### `04` — Break Things
+### `04` Break Things
 
 Don't be afraid when something stops working.
 
 **Breaking code is one of the fastest ways to understand how the browser behaves.**
 
-### `05` — Build
+### `05` Build
 
 Complete the weekly assignment without simply copying the demo.
 
@@ -291,68 +304,28 @@ Test your work on both **desktop and mobile** before submission.
 
 ---
 
-## The Learning Philosophy
-
-<div align="center">
-
-### Don't just read the code.
-
-### Run it.
-
-### Change it.
-
-### Break it.
-
-### Understand why it broke.
-
-### Build your own version.
-
-</div>
-
----
-
 ## Instructor & Mentorship
 
 This repository is **curated, written, and led by Samra Arif** as part of a practical web development mentorship.
 
-The material is built around what beginners actually struggle with — not just what looks good in a tutorial.
+The material focuses on the things beginners actually struggle with: understanding concepts, following code, experimenting, debugging, and gradually becoming comfortable building things on their own.
 
-The code demos are intentionally close to the way code is written during a real session, so students can follow the thought process, experiment with the code, and gradually become comfortable solving things on their own.
+### Samra Arif
 
-<br>
-
-<table align="center">
-<tr>
-<td align="center">
-
-**Samra Arif**
-
-Software Engineer · Web & Mobile Developer
+**Software Engineer | Web & Mobile Developer**
 Mentor & Instructor
 
-[LinkedIn](https://www.linkedin.com/in/samraarif-dev/) · [Instagram](https://www.instagram.com/samraarif_/)
+[LinkedIn](https://www.linkedin.com/in/samraarif-dev/)
+·
+[Instagram](https://www.instagram.com/samraarif_/)
 
-</td>
-</tr>
-</table>
-
----
-
-## Stay Connected
-
-Have a question about the material, an assignment, or something that isn't working?
+For questions about the material, assignments, or anything that isn't working:
 
 **Email:** `samraarif2003@gmail.com`
-
-**LinkedIn:** [Samra Arif](https://www.linkedin.com/in/samraarif-dev/)
-
-**Instagram:** [@samraarif_](https://www.instagram.com/samraarif_/)
 
 ---
 
 <div align="center">
-
----
 
 ### Keep building. Keep inspecting elements.
 
@@ -363,6 +336,7 @@ Have a question about the material, an assignment, or something that isn't worki
 <br>
 
 If this repository helped you learn something,
-**consider giving it a star.**
+
+**consider giving it a ⭐**
 
 </div>
