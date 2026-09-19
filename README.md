@@ -254,25 +254,13 @@ Weekly exercises designed to make you apply the concepts yourself rather than si
 
 ## Current Materials
 
-### Week 01
-
-| Resource            | Access                                               |
-| ------------------- | ---------------------------------------------------- |
-| **Lecture 01**      | [Open PDF](./lectures/lecture_1.pdf)                 |
-| **Lecture 02**      | [Open PDF](./lectures/lecture_2.pdf)                 |
-| **Session 01 Demo** | [Open Code](./code-demos/lecture-1-practice.html)    |
-| **Session 02 Demo** | [Open Code](./code-demos/lecture-2-practice.html)    |
-| **Assignment 01**   | [Open Prompt](./assignments/Weekly_Assignment_1.pdf) |
-
-### Week 02
-
-| Resource            | Access                                               |
-| ------------------- | ---------------------------------------------------- |
-| **Lecture 03**      | [Open PDF](./lectures/lecture_3.pdf)                 |
-| **Session 03 Demo** | [Open Code](./code-demos/lecture-3-practice.html)    |
-| **Lecture 04**      | *Pending Session*                                    |
-| **Session 04 Demo** | *Pending Session*                                    |
-| **Assignment 02**   | *Coming Sunday*                                      |
+| Week 01 Resource | Access | Week 02 Resource | Access |
+| :--- | :--- | :--- | :--- |
+| **Lecture 01** | [Open PDF](./lectures/lecture_1.pdf) | **Lecture 03** | [Open PDF](./lectures/lecture_3.pdf) |
+| **Lecture 02** | [Open PDF](./lectures/lecture_2.pdf) | **Session 03 Demo** | [Open Code](./code-demos/lecture-3-practice.html) |
+| **Session 01 Demo** | [Open Code](./code-demos/lecture-1-practice.html) | **Lecture 04** | *Pending Session* |
+| **Session 02 Demo** | [Open Code](./code-demos/lecture-2-practice.html) | **Session 04 Demo** | *Pending Session* |
+| **Assignment 01** | [Open Prompt](./assignments/Weekly_Assignment_1.pdf) | **Assignment 02** | *Coming Sunday* |
 
 > New weekly modules, code demos, and assignment PDFs are committed every weekend.
 
