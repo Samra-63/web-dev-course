@@ -264,6 +264,16 @@ Weekly exercises designed to make you apply the concepts yourself rather than si
 | **Session 02 Demo** | [Open Code](./code-demos/lecture-2-practice.html)    |
 | **Assignment 01**   | [Open Prompt](./assignments/Weekly_Assignment_1.pdf) |
 
+### Week 02
+
+| Resource            | Access                                               |
+| ------------------- | ---------------------------------------------------- |
+| **Lecture 03**      | [Open PDF](./lectures/lecture_3.pdf)                 |
+| **Session 03 Demo** | [Open Code](./code-demos/lecture-3-practice.html)    |
+| **Lecture 04**      | *Pending Session*                                    |
+| **Session 04 Demo** | *Pending Session*                                    |
+| **Assignment 02**   | *Coming Sunday*                                      |
+
 > New weekly modules, code demos, and assignment PDFs are committed every weekend.
 
 ---
