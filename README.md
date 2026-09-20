@@ -278,17 +278,17 @@ Weekly exercises designed to make you apply the concepts yourself rather than si
 | Resource | Access |
 | :--- | :--- |
 | **Lecture 03** | [Open PDF](./lectures/lecture_3.pdf) |
+| **Lecture 04** | [Open PDF](./lectures/lecture_4.pdf) |
 | **Session 03 Demo** | [Open Code](./code-demos/lecture-3-practice.html) |
-| **Lecture 04** | *Pending Session* |
-| **Session 04 Demo** | *Pending Session* |
-| **Assignment 02** | *Coming Sunday* |
+| **Session 04 Demo 1** | [Open Code](./code-demos/lecture-4-practice1.html) |
+| **Session 04 Demo 2** | [Open Code](./code-demos/lecture-4-practice2.html) |
+| **Assignment 02** | *Coming Soon* |
 
 </td>
 </tr>
 </table>
 
 > New weekly modules, code demos, and assignment PDFs are committed every weekend.
----
 
 ## How to Use This Repository
 
