@@ -282,7 +282,7 @@ Weekly exercises designed to make you apply the concepts yourself rather than si
 | **Session 03 Demo** | [Open Code](./code-demos/lecture-3-practice.html) |
 | **Session 04 Demo 1** | [Open Code](./code-demos/lecture-4-practice1.html) |
 | **Session 04 Demo 2** | [Open Code](./code-demos/lecture-4-practice2.html) |
-| **Assignment 02** | *Coming Soon* |
+| **Assignment 02** | [Open Prompt](./assignments/Weekly_Assignment_2.pdf) |
 
 </td>
 </tr>
