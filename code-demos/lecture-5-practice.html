@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=<device-width>, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <form action="https://httpbin.org/post" method="POST">
+        <input type="color"
+        value="#ffffff">
+        <br><br>
+        <label>Volume (0-100):</label>
+        <input type="range"
+        min="0" max="100"
+        step="5" value="50"><br><br>
+
+
+
+  <label for="img">Profile Image:</label>
+  <input type="file" id="img" name="img" accept="image/*">
+
+<br><br>
+<br><br>
+
+<label for="msg">Your Feedback:</label>
+<textarea
+  id="msg" name="message"
+  rows="4" cols="30">
+</textarea>
+<br><br>
+
+<!-- Connect via list and id -->
+<label for="languages">Choose Language:</label>
+<input list="languages" placeholder="Pick language...">
+
+<datalist id="languages">
+  <option value="HTML5">
+  <option value="JavaScript">
+  <option value="Python">
+</datalist>
+
+
+<br><br>
+
+<label for="city">Choose City:</label>
+<select id="city" name="userCity">
+  <option value="" disabled selected>
+    -- Select your city --
+  </option>
+
+  <optgroup label="Sindh">
+    <option value="khi">Karachi</option>
+    <option value="hyd">Hyderabad</option>
+  </optgroup>
+
+  <optgroup label="Punjab">
+    <option value="lhr">Lahore</option>
+    <option value="Atk">Attock</option>
+  </optgroup>
+
+
+</select>
+
+
+<br><br>
+<!-- Only accepts exactly 5 digits -->
+ <label for="zip">Zip Code:</label>
+<input
+  type="text" id="zip" name="zip"
+  pattern="[0-9]{5}"
+  title="Please enter 5 numbers"
+>
+<br><br>
+<fieldset>
+  <legend>Gender</legend>
+
+  <input type="radio" id="male" name="gender" value="male">
+  <label for="male">Male</label><br>
+
+  <input type="radio" id="female" name="gender" value="female">
+  <label for="female">Female</label><br>
+
+  <input type="radio" id="other" name="gender" value="other">
+  <label for="other">Other</label>
+
+</fieldset>
+
+<br><br>
+<button  value="Submit">Submit</button>
+</form>
+
+</body>
+</html>
