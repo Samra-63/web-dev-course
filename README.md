@@ -256,9 +256,11 @@ Weekly exercises designed to make you apply the concepts yourself rather than si
 
 <table>
 <tr>
-<th width="48%" align="left">Week 01</th>
-<th width="4%"></th>
-<th width="48%" align="left">Week 02</th>
+<th width="32%" align="left">Week 01</th>
+<th width="2%"></th>
+<th width="32%" align="left">Week 02</th>
+<th width="2%"></th>
+<th width="32%" align="left">Week 03</th>
 </tr>
 <tr valign="top">
 <td>
@@ -283,6 +285,18 @@ Weekly exercises designed to make you apply the concepts yourself rather than si
 | **Session 04 Demo 1** | [Open Code](./code-demos/lecture-4-practice1.html) |
 | **Session 04 Demo 2** | [Open Code](./code-demos/lecture-4-practice2.html) |
 | **Assignment 02** | [Open Prompt](./assignments/Weekly_Assignment_2.pdf) |
+
+</td>
+<td></td>
+<td>
+
+| Resource | Access |
+| :--- | :--- |
+| **Lecture 05** | [Open PDF](./lectures/lecture_5.pdf) |
+| **Session 05 Demo** | [Open Code](./code-demos/lecture-5-practice.html) |
+| **Lecture 06** | *Upcoming (Weekend)* |
+| **Session 06 Demo** | *Upcoming (Weekend)* |
+| **Assignment 03** | *Upcoming (Weekend)* |
 
 </td>
 </tr>
