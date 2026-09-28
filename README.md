@@ -304,6 +304,7 @@ Weekly exercises designed to make you apply the concepts yourself rather than si
 | **Capstone (Home)** | [Open Code](./capstone-project-1/index.html) |
 | **Capstone (Milestones)** | [Open Code](./capstone-project-1/achievements.html) |
 | **Capstone (Contact)** | [Open Code](./capstone-project-1/contact.html) |
+| **Assignment 03** | [Open Prompt](./assignments/Weekly_Assignment_3.pdf) |
 
 </td>
 </tr>
