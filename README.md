@@ -294,9 +294,10 @@ Weekly exercises designed to make you apply the concepts yourself rather than si
 | :--- | :--- |
 | **Lecture 05** | [Open PDF](./lectures/lecture_5.pdf) |
 | **Session 05 Demo** | [Open Code](./code-demos/lecture-5-practice.html) |
-| **Lecture 06** | *Upcoming (Weekend)* |
-| **Session 06 Demo** | *Upcoming (Weekend)* |
-| **Assignment 03** | *Upcoming (Weekend)* |
+| **Lecture 06** | [Open PDF](./lectures/lecture_6.pdf) |
+| **Capstone (Home)** | [Open Code](./capstone-project-1/index.html) |
+| **Capstone (Milestones)** | [Open Code](./capstone-project-1/achievements.html) |
+| **Capstone (Contact)** | [Open Code](./capstone-project-1/contact.html) |
 
 </td>
 </tr>
