@@ -227,11 +227,15 @@ So if you ever wonder **“What are we doing this week?”**, the tracker has th
 │
 ├── assignments/
 │   ├── Weekly_Assignment_1.pdf
+│   ├── Weekly_Assignment_2.pdf
 │   └── ...
 │
+├── capstone-project-1/
+│   ├── index.html
+│   ├── achievements.html
+│   └── contact.html
+│
 └── README.md
-```
-
 ### `lectures/`
 
 Weekly slides and session material.
