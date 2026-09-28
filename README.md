@@ -236,6 +236,8 @@ So if you ever wonder **“What are we doing this week?”**, the tracker has th
 │   └── contact.html
 │
 └── README.md
+```
+
 ### `lectures/`
 
 Weekly slides and session material.
