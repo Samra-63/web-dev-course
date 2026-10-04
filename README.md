@@ -260,13 +260,13 @@ Weekly exercises designed to make you apply the concepts yourself rather than si
 
 ## Current Materials
 
+### Phase 1: Semantic HTML5
+
 <table>
 <tr>
-<th width="32%" align="left">Week 01</th>
-<th width="2%"></th>
-<th width="32%" align="left">Week 02</th>
-<th width="2%"></th>
-<th width="32%" align="left">Week 03</th>
+<th width="48%" align="left">Week 01</th>
+<th width="4%"></th>
+<th width="48%" align="left">Week 02</th>
 </tr>
 <tr valign="top">
 <td>
@@ -293,18 +293,42 @@ Weekly exercises designed to make you apply the concepts yourself rather than si
 | **Assignment 02** | [Open Prompt](./assignments/Weekly_Assignment_2.pdf) |
 
 </td>
-<td></td>
+</tr>
+</table>
+
+### Phase 2: CSS3 Fundamentals & Styling
+
+<table>
+<tr>
+<th width="48%" align="left">Week 03</th>
+<th width="4%"></th>
+<th width="48%" align="left">Week 04</th>
+</tr>
+<tr valign="top">
 <td>
 
 | Resource | Access |
 | :--- | :--- |
 | **Lecture 05** | [Open PDF](./lectures/lecture_5.pdf) |
-| **Session 05 Demo** | [Open Code](./code-demos/lecture-5-practice.html) |
 | **Lecture 06** | [Open PDF](./lectures/lecture_6.pdf) |
+| **Session 05 Demo** | [Open Code](./code-demos/lecture-5-practice.html) |
 | **Capstone (Home)** | [Open Code](./capstone-project-1/index.html) |
 | **Capstone (Milestones)** | [Open Code](./capstone-project-1/achievements.html) |
 | **Capstone (Contact)** | [Open Code](./capstone-project-1/contact.html) |
 | **Assignment 03** | [Open Prompt](./assignments/Weekly_Assignment_3.pdf) |
+
+</td>
+<td></td>
+<td>
+
+| Resource | Access |
+| :--- | :--- |
+| **Lecture 07** | [Open PDF](./lectures/lecture_7.pdf) |
+| **Session 07 Demo (HTML)** | [Open Code](./code-demos/lecture-7/index.html) |
+| **Session 07 Demo (CSS)** | [Open Code](./code-demos/lecture-7/style.css) |
+| **Lecture 08** | *Upcoming* |
+| **Session 08 Demo** | *Upcoming* |
+| **Assignment 04** | *Upcoming* |
 
 </td>
 </tr>
