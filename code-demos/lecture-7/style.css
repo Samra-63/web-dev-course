@@ -1,0 +1,13 @@
+/* style.css */
+h1 {
+  color: #D98324;
+  font-family: Georgia, serif;
+  text-align: center;
+}
+
+p {
+  color: hsl(220, 10%, 25%);
+  font-size: 16px;
+  line-height: 1.6;
+  text-align: center;
+}
