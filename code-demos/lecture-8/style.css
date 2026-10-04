@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+p{
+    width: 200px;
+    height: 100px;
+    color: black;
+    border: 5px solid red;
+    padding: 20px; 
+    margin: 20px;
+}
