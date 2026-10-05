@@ -329,7 +329,7 @@ Weekly exercises designed to make you apply the concepts yourself rather than si
 | **Lecture 08** | [Open PDF](./lectures/lecture_8.pdf) |
 | **Session 08 Demo (HTML)** | [Open Code](./code-demos/lecture-8/index.html) |
 | **Session 08 Demo (CSS)** | [Open Code](./code-demos/lecture-8/style.css) |
-| **Assignment 04** | *Upcoming (Next Weekend)* |
+| **Assignment 04** | [Open Prompt](./assignments/Weekly_Assignment_4.pdf) |
 
 </td>
 </tr>
