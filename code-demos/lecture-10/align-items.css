@@ -1,0 +1,15 @@
+.align-container {
+  display: flex;
+  align-items: center; /* flex-start (top) | center | flex-end (bottom) */
+  justify-content: center;
+  height: 180px;
+  background-color: #1e293b;
+  border-radius: 8px;
+}
+
+.item {
+  background-color: #ec4899;
+  color: white;
+  padding: 12px 20px;
+  border-radius: 6px;
+}
