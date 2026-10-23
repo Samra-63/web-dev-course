@@ -335,6 +335,34 @@ Weekly exercises designed to make you apply the concepts yourself rather than si
 </tr>
 </table>
 
+<table>
+<tr>
+<th width="100%" align="left">Week 05 (Selectors, Positioning & Flexbox)</th>
+</tr>
+<tr valign="top">
+<td>
+
+| Resource | Description | Access |
+| :--- | :--- | :--- |
+| **Lecture 09** | CSS Selectors, Pseudo-Classes & Positioning Schemes | [Open PDF](./lectures/lecture_9.pdf) |
+| **Demo 09: Combinators** | Descendant Combinator Target Patterns | [HTML](./code-demos/lecture-9/Desendant.html) \| [CSS](./code-demos/lecture-9/desendant.css) |
+| **Demo 09: Positions** | Static, Relative, and Absolute Coordinate Flow | [HTML](./code-demos/lecture-9/positions.html) \| [CSS](./code-demos/lecture-9/positions.css) |
+| **Demo 09: Golden Duo** | Relative Parent Container with Absolute Badge Child | [HTML](./code-demos/lecture-9/parent-anchor.html) \| [CSS](./code-demos/lecture-9/parent-anchor.css) |
+| **Demo 09: Components** | Interactive Pseudo-Classes (:hover, :active, :focus) | [HTML](./code-demos/lecture-9/designing.html) \| [CSS](./code-demos/lecture-9/design.css) |
+| **Demo 09: Main Lab** | Session 09 Landing Integration | [HTML](./code-demos/lecture-9/index.html) \| [CSS](./code-demos/lecture-9/style.css) |
+| **Lecture 10** | Modern Layouts: Flexbox Deep Dive & Alignment | [Open PDF](./lectures/lecture_10.pdf) |
+| **Demo 10: Flex Basics** | Display Flex Container Initialization | [HTML](./code-demos/lecture-10/flexbox.html) \| [CSS](./code-demos/lecture-10/flexbox.css) |
+| **Demo 10: Direction** | Main Axis Flow (`row` vs `column`) | [HTML](./code-demos/lecture-10/flex-direction.html) \| [CSS](./code-demos/lecture-10/flex-direction.css) |
+| **Demo 10: Justify Content** | Main Axis Spacing (`space-between`, `space-evenly`, `center`) | [HTML](./code-demos/lecture-10/justify-content.html) \| [CSS](./code-demos/lecture-10/justify-content.css) |
+| **Demo 10: Align Items** | Cross Axis Vertical Alignments (`stretch`, `center`, `flex-start`) | [HTML](./code-demos/lecture-10/align-items.html) \| [CSS](./code-demos/lecture-10/align-items.css) |
+| **Demo 10: Flex Wrap** | Multi-Line Wrapping & Responsive Card Shifts | [HTML](./code-demos/lecture-10/flex-wrap.html) \| [CSS](./code-demos/lecture-10/flex-wrap.css) |
+| **Demo 10: Child Items** | `flex-grow`, `flex-shrink`, and `flex-basis` Mechanics | [HTML](./code-demos/lecture-10/child-power.html) \| [CSS](./code-demos/lecture-10/child-power.css) |
+| **Assignment 05** | *Upcoming (Next Session)* | — |
+
+</td>
+</tr>
+</table>
+
 > New weekly modules, code demos, and assignment PDFs are committed every weekend.
 
 ## How to Use This Repository
