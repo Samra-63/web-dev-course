@@ -1,0 +1,14 @@
+.justify-container {
+  display: flex;
+  justify-content: space-evenly; /* flex-start | center | flex-end | space-between | space-evenly */
+  background-color: #1e293b;
+  padding: 15px;
+  border-radius: 8px;
+}
+
+.pill {
+  background-color: #6366f1;
+  color: white;
+  padding: 8px 18px;
+  border-radius: 20px;
+}
