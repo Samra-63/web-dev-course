@@ -1,0 +1,9 @@
+.main-nav a{
+    color: #042954;
+    text-decoration: none;
+}
+.parent-list  li{
+    color: #449e1b;
+    padding: 6px 0;
+    border-bottom: 1px solid #ccc;
+}
