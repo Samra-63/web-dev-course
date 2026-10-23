@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <link rel="stylesheet" href="positions.css">
+</head>
+<body>`
+    <!-- position:static -->
+    <div class="box-static">Main static box hoon</div>
+    <!-- position: relative -->
+    <div class="box-relative">Main relative box hoon</div>
+
+
+    <!-- position: absolute -->
+    <div class="parent-container">
+        <div class="box-absolute">Men parent ke top-right corner pr hoon</div>
+    </div>
+
+
+    <!-- position: Fixed -->
+    <button class="box-fixed">Scroll krne pr bhi yahi rahunga</button>
+
+    <!-- position: Sticky -->
+    <div class="header-sticky">Sticky Header</div>
+
+
+
+    <!-- EXTRA SCROLL CONTENT -->
+    <div class="spacer-text">
+      <h4>Scroll test content section 1</h4>
+      <p>Jab aap niche scroll karenge, notice karein:</p>
+      <ul>
+        <li>Blue floating badge (Fixed) screen ke bottom-right par hamesha chipka rahega.</li>
+        <li>Blue bar (Sticky) jaise hi browser window ke top edge ko chhuayegi, wahi freeze ho jayegi.</li>
+      </ul>
+    </div>
+
+    <div class="spacer-text">
+      <h4>Scroll test content section 2</h4>
+      <p>CSS layouting me <code>relative</code> parent aur <code>absolute</code> child ka combination cards, badges, modal close buttons, aur tooltips design karne ke liye sabse common pattern hai.</p>
+    </div>
+
+    <div class="spacer-text">
+      <h4>Scroll test content section 3</h4>
+      <p>Browser window ki total scroll height 3500px set hai taake scroll behavior clear rahe.</p>
+    </div>
+
+    <div class="spacer-text">
+      <h4>Scroll test content section 4</h4>
+      <p>Agar sticky element scroll me stick na ho raha ho, toh aksar wajah yeh hoti hai ke kisi parent element par <code>overflow: hidden</code> laga hota hai.</p>
+    </div>
+
+    <div class="spacer-text">
+      <h4>Scroll test content section 5</h4>
+      <p>Fixed positioning viewport ke coordinate system ke sath link hoti hai, isliye iska parent document body banta hai chahe code me kisi div ke andar hi kyu na ho.</p>
+    </div>
+  </div>
+
+
+</div>
+</body>
+</html>

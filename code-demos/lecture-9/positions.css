@@ -1,0 +1,61 @@
+.box-static {
+  position: static;
+  background-color: #1c371e;
+  color: white;
+  padding: 10px 15px;
+  border-radius: 50px;
+}
+
+.box-relative {
+  position: relative;
+  background-color: #340509;
+  color: white;
+  padding: 10px 15px;
+  border-radius: 50px;
+}
+
+.parent-container {
+  position: relative;
+  width: 993px;
+  height: 200px;
+  background-color: #f1faee;
+  border: 2px solid #333;
+}
+
+.box-absolute {
+  position: absolute;
+  bottom: 10px;
+  left: 10px;
+  background-color: #b839e6;
+  color: white;
+}
+
+
+.box-fixed {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background-color: #457b9d;
+  color: white;
+  padding: 10px 15px;
+  border-radius: 50px;
+}
+
+.header-sticky {
+  position: sticky;
+  top: 0; /* Jab scroll karke top par aayega toh chipak jayega */
+  background-color: #1d3557;
+  color: white;
+  padding: 12px;
+}
+
+
+
+
+.spacer-text {
+      background: white;
+      padding: 20px;
+      margin: 30px 0;
+      border-radius: 8px;
+      border: 1px solid #e5e7eb;
+    }
