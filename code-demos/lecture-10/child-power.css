@@ -1,0 +1,25 @@
+.child-container {
+  display: flex;
+  gap: 12px;
+  background-color: #1e293b;
+  padding: 15px;
+}
+
+.item {
+  padding: 20px;
+  color: white;
+  border-radius: 6px;
+}
+
+/* Sidebar: flex-shrink 0 ka matlab yeh kabhi pichkega nahi */
+.fixed {
+  background-color: #d97706;
+  flex-basis: 120px;
+  flex-shrink: 0;
+}
+
+/* Main Content: Bachi hui saari space yeh akele le lega */
+.main-content {
+  background-color: #10b981;
+  flex-grow: 1;
+}
