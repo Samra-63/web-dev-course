@@ -1,0 +1,17 @@
+.direction-container {
+  display: flex;
+  flex-direction: column; /* row se column mein change ho gaya */
+  gap: 10px;
+  background-color: #1e293b;
+  padding: 15px;
+  width: 200px;
+}
+
+.card {
+  background-color: #38bdf8;
+  color: #0f172a;
+  padding: 15px;
+  text-align: center;
+  font-weight: bold;
+  border-radius: 6px;
+}
