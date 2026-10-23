@@ -1,0 +1,18 @@
+/* 1. Parent boundary define karega */
+.card {
+  position: relative;
+  width: 250px;
+  padding: 20px;
+  background-color: white;
+  border: 1px solid #ccc;
+}
+
+/* 2. Child card ke kone me fit hoga */
+.card .badge {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  background-color: red;
+  color: white;
+  padding: 4px 8px;
+}
