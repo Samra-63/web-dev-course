@@ -1,0 +1,29 @@
+.action-btn{
+    background-color: #28a745;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: 100;
+}
+
+.action-btn:hover{
+    background-color: #218838;
+}
+
+.action-btn:active{
+    background-color: #1e7e34;
+}
+
+.action-btn:focus{
+    outline: none;
+    box-shadow: 0 0 0 3px rgba(40, 167, 69, 0.5);
+}
+
+.striped-list li:nth-child(even){
+    background-color: #30182f;
+    
+}
+
+
