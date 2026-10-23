@@ -1,0 +1,19 @@
+#page-title{
+    color: #d000ff;
+    text-align: center;
+}
+.btn{
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.btn-primary{
+    background-color: #007bff;
+    color: white;
+    border: none;
+}
+.btn-secondary{
+    background-color: #6c757d;
+    color: white;
+    border: none;
+}
