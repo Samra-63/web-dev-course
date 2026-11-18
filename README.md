@@ -381,6 +381,26 @@ Weekly exercises designed to make you apply the concepts yourself rather than si
 </tr>
 </table>
 
+<table>
+<tr>
+<th width="100%" align="left">Week 06 (CSS Grid & Phase 2 Capstone)</th>
+</tr>
+<tr valign="top">
+<td>
+
+| Resource | Description | Access |
+| :--- | :--- | :--- |
+| **Lecture 11** | Modern Layouts: CSS Grid Systems (2D Layouts) | [Open PDF](./lectures/lecture_11.pdf) |
+| **Demo 11: CSS Grid** | Grid Container, Tracks (`fr`), Rows, Columns & Gap | [HTML](./code-demos/lecture-11/grid.html) \| [CSS](./code-demos/lecture-11/grid.css) |
+| **Lecture 12** | Phase 2 Capstone: Mobile-First Workflow, CSS Variables & DevTools | — |
+| **Capstone 02 (Home)** | Noor Modest Studio — Boutique Storefront | [Open Code](./capstone-project-2/index.html) |
+| **Capstone 02 (Catalog)** | Full Product Catalog & Fabric Care Guide | [Open Code](./capstone-project-2/collections.html) |
+| **Capstone 02 (Styles)** | Shared Mobile-First Luxury Design System | [Open Code](./capstone-project-2/style.css) |
+
+</td>
+</tr>
+</table>
+
 > New weekly modules, code demos, and assignment PDFs are committed every weekend.
 
 ## How to Use This Repository
