@@ -394,7 +394,7 @@ Weekly exercises designed to make you apply the concepts yourself rather than si
 
 | Resource | Description | Access |
 | :--- | :--- | :--- |
-| **Lecture 13** | JavaScript Foundations: Variables (`let`/`const`), Data Types & Operators | *Upcoming* |
+| **Lecture 13** | JavaScript Foundations: Variables (`let`/`const`), Data Types & Operators | [Open PDF](./lectures/lecture_13.pdf) |
 | **Session 13 Demo** | Console Lab & Basic Expressions | *Upcoming* |
 | **Lecture 14** | Control Flow: Conditionals (`if/else`, `switch`) & Loops (`for`, `while`) | *Upcoming* |
 | **Session 14 Demo** | Logic Building & Loop Exercises | *Upcoming* |
@@ -403,6 +403,7 @@ Weekly exercises designed to make you apply the concepts yourself rather than si
 </td>
 </tr>
 </table>
+
 
 > New weekly modules, code demos, and assignment PDFs are committed every weekend.
 
