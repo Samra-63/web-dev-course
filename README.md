@@ -1,481 +1,83 @@
 <div align="center">
 
-# Web Development Mentorship
+# 🦇 Desi Batman: Gaon Ka Rakhwala 3D
 
-### From Fundamentals to Full Build
+**A 3D action-adventure web game bringing the Dark Knight to a vibrant South Asian village.**
 
-A **12-week hands-on journey** through HTML, CSS & JavaScript
-from understanding how the browser works to building clean, responsive interfaces.
+[![Play Live on Vercel](https://img.shields.io/badge/Play_Live-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR-VERCEL-LINK.vercel.app)
+[![Built with Three.js](https://img.shields.io/badge/Engine-Three.js_WebGL-black?style=for-the-badge&logo=threedotjs&logoColor=white)](#tech-stack)
+[![React + TypeScript](https://img.shields.io/badge/Stack-React_%2B_TypeScript-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#tech-stack)
 
-<br>
-
-<table align="center">
-<tr>
-<td align="center" width="160">
-<h2>01</h2>
-<strong>HTML</strong>
-<br>
-<sub>Structure</sub>
-</td>
-
-<td align="center" width="45">
-<h2>→</h2>
-</td>
-
-<td align="center" width="160">
-<h2>02</h2>
-<strong>CSS</strong>
-<br>
-<sub>Style</sub>
-</td>
-
-<td align="center" width="45">
-<h2>→</h2>
-</td>
-
-<td align="center" width="160">
-<h2>03</h2>
-<strong>JAVASCRIPT</strong>
-<br>
-<sub>Logic</sub>
-</td>
-
-<td align="center" width="45">
-<h2>→</h2>
-</td>
-
-<td align="center" width="160">
-<h2>04</h2>
-<strong>FULL BUILD</strong>
-<br>
-<sub>Put it together</sub>
-</td>
-</tr>
-</table>
-
-<br>
-
-<i>Learn it. Write it. Break it. Understand it.</i>
+[Play Now](https://YOUR-VERCEL-LINK.vercel.app) | [Gameplay Features](#gameplay-features) | [Controls](#controls) | [Run Locally](#run-locally)
 
 </div>
 
 ---
 
-## Why This Repository Exists
+## 🌐 Live Public Demo
 
-A lot of beginner tutorials introduce frameworks and complex concepts before students understand what is actually happening underneath.
-
-This mentorship takes a different approach.
-
-> **Understand the fundamentals → experiment with the code → build things yourself.**
-
-This repository brings together the material used throughout the **12-week mentorship**, including lecture slides, live coding demos, practical assignments, and supporting resources.
-
-No framework-first shortcuts.
-No learning by watching alone.
-Just the foundations you can build everything else on.
+Play directly in your browser with zero installation:  
+👉 **[https://YOUR-VERCEL-LINK.vercel.app](https://YOUR-VERCEL-LINK.vercel.app)**
 
 ---
 
-## At a Glance
+##  Gameplay Features
 
-<table align="center">
-<tr>
-
-<td align="center" width="220">
-<h2>12</h2>
-<strong>WEEKS</strong>
-<br>
-<sub>Structured learning journey</sub>
-</td>
-
-<td align="center" width="220">
-<h2>3</h2>
-<strong>CORE TECHNOLOGIES</strong>
-<br>
-<sub>HTML · CSS · JavaScript</sub>
-</td>
-
-<td align="center" width="220">
-<h2>3</h2>
-<strong>CORE RESOURCES</strong>
-<br>
-<sub>Lectures · Demos · Assignments</sub>
-</td>
-
-</tr>
-</table>
+- **Dual-Camera Perspective (`V` Key):** Switch anytime between an over-the-shoulder Third-Person Action Cam and an immersive First-Person Batman Cowl POV.
+- **Desi Detective Vision (`Q` Key):** Activate tactical vision to highlight threats and targets across the village.
+- **Desi + Dark Knight Arsenal (`1` to `4` Keys):**
+  - **[1] Steel Batarangs:** Homing and ricochet projectiles for ranged takedowns.
+  - **[2] Jhaadu & Rope Melee:** Close-combat sweep attack that deflects incoming projectiles.
+  - **[3] Mirch Smoke Bomb:** Deploys a crimson spice cloud that stuns nearby enemies.
+  - **[4] Desi Gulel:** Precision slingshot for triggering overhead lanterns and hazards.
+- **Bat-Bhensa Ultimate (`E` Key):** Whistle to summon a massive black Bat-Bhensa wearing a silver crescent-moon Bat-Pendant to trample obstacles and enemies.
+- **Multi-Stage Village Campaign:** Fight through sarson fields, a roadside chai dhaba, handpump square, and a bicycle puncture shop before facing Desi Joker and the laser-eyed Desi Superman at the Eent Bhatta (brick kiln).
 
 ---
 
-## Learning Path
+## 🎮 Controls
 
-```text
-WEB BASICS
-    ↓
-HTML & SEMANTIC STRUCTURE
-    ↓
-CSS & LAYOUTS
-    ↓
-RESPONSIVE DESIGN
-    ↓
-JAVASCRIPT
-    ↓
-DOM & BROWSER INTERACTION
-    ↓
-FULL FRONT-END BUILD
-```
-
-The course moves from **understanding how the web works** to building complete, responsive front-end interfaces.
-
----
-
-## Who This Cohort Is For
-
-<table>
-<tr>
-
-<td width="33%" valign="top">
-
-### Complete Beginners
-
-Want to understand how websites actually work before jumping into frameworks.
-
-**You'll learn:**
-
-* Client & server basics
-* HTML structure
-* Semantic markup
-* Browser fundamentals
-
-</td>
-
-<td width="33%" valign="top">
-
-### Early Learners
-
-Know some syntax but struggle to turn it into layouts and working interfaces.
-
-**You'll practice:**
-
-* CSS organization
-* Layout systems
-* Responsive design
-* JavaScript logic
-
-</td>
-
-<td width="33%" valign="top">
-
-### Aspiring Developers
-
-Want a structured path with actual practice instead of only watching tutorials.
-
-**You'll work with:**
-
-* Weekly assignments
-* Practical exercises
-* Live coding examples
-* Code review & feedback
-
-</td>
-
-</tr>
-</table>
-
----
-
-## Live Course Guide
-
-Instead of keeping a static syllabus here that can become outdated, the complete **12-week course roadmap** is maintained in a live tracker.
-
-It brings the course into one place, including:
-
-* Weekly topics and session breakdowns
-* Lecture and learning resources
-* Class dates and schedule
-* Weekly assignments
-* Attendance and participation
-* Assignment submission tracking
-* What's already covered and what's coming next
-
-So if you ever wonder **“What are we doing this week?”**, the tracker has the answer.
-
-<div align="center">
-
-### [Open Live 12-Week Course Guide ↗](https://docs.google.com/spreadsheets/d/1Xf_u91eGd9WgrLrstOVd0V27suUVBBQyHBKBxaRm_Dc/edit?usp=sharing)
-
-</div>
-
-*Check the tracker regularly for the latest session details, resources, assignments, and progress.*
-
----
-
-## Repository Structure
-
-```text
-.
-├── lectures/
-│   ├── lecture_1.pdf
-│   ├── lecture_2.pdf
-│   └── ...
-│
-├── code-demos/
-│   ├── lecture-1-practice.html
-│   ├── lecture-2-practice.html
-│   └── ...
-│
-├── assignments/
-│   ├── Weekly_Assignment_1.pdf
-│   ├── Weekly_Assignment_2.pdf
-│   └── ...
-│
-├── capstone-project-1/
-│   ├── index.html
-│   ├── achievements.html
-│   └── contact.html
-│
-└── README.md
-```
-
-### `lectures/`
-
-Weekly slides and session material.
-
-Start here when you want to understand the concept before working with the code.
-
-### `code-demos/`
-
-The code written during live sessions.
-
-These are intentionally close to the way code is written while learning.
-
-**Open it. Change it. Break it.**
-
-### `assignments/`
-
-Weekly exercises designed to make you apply the concepts yourself rather than simply copy the demo.
-
----
-
-## Current Materials
-
-### Phase 1: Semantic HTML5
-
-<table>
-<tr>
-<th width="48%" align="left">Week 01</th>
-<th width="4%"></th>
-<th width="48%" align="left">Week 02</th>
-</tr>
-<tr valign="top">
-<td>
-
-| Resource | Access |
+| Action | Keyboard / Mouse |
 | :--- | :--- |
-| **Lecture 01** | [Open PDF](./lectures/lecture_1.pdf) |
-| **Lecture 02** | [Open PDF](./lectures/lecture_2.pdf) |
-| **Session 01 Demo** | [Open Code](./code-demos/lecture-1-practice.html) |
-| **Session 02 Demo** | [Open Code](./code-demos/lecture-2-practice.html) |
-| **Assignment 01** | [Open Prompt](./assignments/Weekly_Assignment_1.pdf) |
-
-</td>
-<td></td>
-<td>
-
-| Resource | Access |
-| :--- | :--- |
-| **Lecture 03** | [Open PDF](./lectures/lecture_3.pdf) |
-| **Lecture 04** | [Open PDF](./lectures/lecture_4.pdf) |
-| **Session 03 Demo** | [Open Code](./code-demos/lecture-3-practice.html) |
-| **Session 04 Demo 1** | [Open Code](./code-demos/lecture-4-practice1.html) |
-| **Session 04 Demo 2** | [Open Code](./code-demos/lecture-4-practice2.html) |
-| **Assignment 02** | [Open Prompt](./assignments/Weekly_Assignment_2.pdf) |
-
-</td>
-</tr>
-</table>
-
-### Phase 2: CSS3 Fundamentals & Styling
-
-<table>
-<tr>
-<th width="48%" align="left">Week 03</th>
-<th width="4%"></th>
-<th width="48%" align="left">Week 04</th>
-</tr>
-<tr valign="top">
-<td>
-
-| Resource | Access |
-| :--- | :--- |
-| **Lecture 05** | [Open PDF](./lectures/lecture_5.pdf) |
-| **Lecture 06** | [Open PDF](./lectures/lecture_6.pdf) |
-| **Session 05 Demo** | [Open Code](./code-demos/lecture-5-practice.html) |
-| **Capstone (Home)** | [Open Code](./capstone-project-1/index.html) |
-| **Capstone (Milestones)** | [Open Code](./capstone-project-1/achievements.html) |
-| **Capstone (Contact)** | [Open Code](./capstone-project-1/contact.html) |
-| **Assignment 03** | [Open Prompt](./assignments/Weekly_Assignment_3.pdf) |
-
-</td>
-<td></td>
-<td>
-
-| Resource | Access |
-| :--- | :--- |
-| **Lecture 07** | [Open PDF](./lectures/lecture_7.pdf) |
-| **Session 07 Demo (HTML)** | [Open Code](./code-demos/lecture-7/index.html) |
-| **Session 07 Demo (CSS)** | [Open Code](./code-demos/lecture-7/style.css) |
-| **Lecture 08** | [Open PDF](./lectures/lecture_8.pdf) |
-| **Session 08 Demo (HTML)** | [Open Code](./code-demos/lecture-8/index.html) |
-| **Session 08 Demo (CSS)** | [Open Code](./code-demos/lecture-8/style.css) |
-| **Assignment 04** | [Open Prompt](./assignments/Weekly_Assignment_4.pdf) |
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<th width="100%" align="left">Week 05 (Selectors, Positioning & Flexbox)</th>
-</tr>
-<tr valign="top">
-<td>
-
-| Resource | Description | Access |
-| :--- | :--- | :--- |
-| **Lecture 09** | CSS Selectors, Pseudo-Classes & Positioning Schemes | [Open PDF](./lectures/lecture_9.pdf) |
-| **Demo 09: Combinators** | Descendant Combinator Target Patterns | [HTML](./code-demos/lecture-9/Desendant.html) \| [CSS](./code-demos/lecture-9/desendant.css) |
-| **Demo 09: Positions** | Static, Relative, and Absolute Coordinate Flow | [HTML](./code-demos/lecture-9/positions.html) \| [CSS](./code-demos/lecture-9/positions.css) |
-| **Demo 09: Golden Duo** | Relative Parent Container with Absolute Badge Child | [HTML](./code-demos/lecture-9/parent-anchor.html) \| [CSS](./code-demos/lecture-9/parent-anchor.css) |
-| **Demo 09: Components** | Interactive Pseudo-Classes (:hover, :active, :focus) | [HTML](./code-demos/lecture-9/designing.html) \| [CSS](./code-demos/lecture-9/design.css) |
-| **Demo 09: Main Lab** | Session 09 Landing Integration | [HTML](./code-demos/lecture-9/index.html) \| [CSS](./code-demos/lecture-9/style.css) |
-| **Lecture 10** | Modern Layouts: Flexbox Deep Dive & Alignment | [Open PDF](./lectures/lecture_10.pdf) |
-| **Demo 10: Flex Basics** | Display Flex Container Initialization | [HTML](./code-demos/lecture-10/flexbox.html) \| [CSS](./code-demos/lecture-10/flexbox.css) |
-| **Demo 10: Direction** | Main Axis Flow (`row` vs `column`) | [HTML](./code-demos/lecture-10/flex-direction.html) \| [CSS](./code-demos/lecture-10/flex-direction.css) |
-| **Demo 10: Justify Content** | Main Axis Spacing (`space-between`, `space-evenly`, `center`) | [HTML](./code-demos/lecture-10/justify-content.html) \| [CSS](./code-demos/lecture-10/justify-content.css) |
-| **Demo 10: Align Items** | Cross Axis Vertical Alignments (`stretch`, `center`, `flex-start`) | [HTML](./code-demos/lecture-10/align-items.html) \| [CSS](./code-demos/lecture-10/align-items.css) |
-| **Demo 10: Flex Wrap** | Multi-Line Wrapping & Responsive Card Shifts | [HTML](./code-demos/lecture-10/flex-wrap.html) \| [CSS](./code-demos/lecture-10/flex-wrap.css) |
-| **Demo 10: Child Items** | `flex-grow`, `flex-shrink`, and `flex-basis` Mechanics | [HTML](./code-demos/lecture-10/child-power.html) \| [CSS](./code-demos/lecture-10/child-power.css) |
-| **Assignment 05** | *Upcoming (Next Session)* | — |
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<th width="100%" align="left">Week 06 (CSS Grid & Phase 2 Capstone)</th>
-</tr>
-<tr valign="top">
-<td>
-
-| Resource | Description | Access |
-| :--- | :--- | :--- |
-| **Lecture 11** | Modern Layouts: CSS Grid Systems (2D Layouts) | [Open PDF](./lectures/lecture_11.pdf) |
-| **Demo 11: CSS Grid** | Grid Container, Tracks (`fr`), Rows, Columns & Gap | [HTML](./code-demos/lecture-11/grid.html) \| [CSS](./code-demos/lecture-11/grid.css) |
-| **Lecture 12** | Phase 2 Capstone: Mobile-First Workflow, CSS Variables & DevTools | — |
-| **Capstone 02 (Home)** | Noor Modest Studio — Boutique Storefront | [Open Code](./capstone-project-2/index.html) |
-| **Capstone 02 (Catalog)** | Full Product Catalog & Fabric Care Guide | [Open Code](./capstone-project-2/collections.html) |
-| **Capstone 02 (Styles)** | Shared Mobile-First Luxury Design System | [Open Code](./capstone-project-2/style.css) |
-| **Assignment 06** | Phase 2 Capstone Replication, LinkedIn Showcase & Medium Blog | [Open Prompt](./assignments/Weekly_Assignment_6.pdf) |
-</td>
-</tr>
-</table>
-
-### Phase 3: JavaScript Fundamentals & Interactive Web
-
-<table>
-<tr>
-<th width="100%" align="left">Week 07 (JavaScript Core & Control Flow)</th>
-</tr>
-<tr valign="top">
-<td>
-
-| Resource | Description | Access |
-| :--- | :--- | :--- |
-| **Lecture 13** | JavaScript Foundations: Variables (`let`/`const`), Data Types & Operators | [Open PDF](./lectures/lecture_13.pdf) |
-| **Session 13 Demo** | Console Lab & Basic Expressions | *Upcoming* |
-| **Lecture 14** | Control Flow: Conditionals (`if/else`, `switch`) & Loops (`for`, `while`) | *Upcoming* |
-| **Session 14 Demo** | Logic Building & Loop Exercises | *Upcoming* |
-| **Assignment 07** | *Upcoming* | — |
-
-</td>
-</tr>
-</table>
-
-
-> New weekly modules, code demos, and assignment PDFs are committed every weekend.
-
-## How to Use This Repository
-
-Don't treat this repository like a folder of notes.
-
-Use it as a **hands-on learning space**.
-
-### `01` Learn
-
-Start with the lecture material and understand the concept before opening the demo.
-
-### `02` Run
-
-Clone the repository and open the practice files in your browser.
-
-### `03` Experiment
-
-Open the code in VS Code.
-
-Change values.
-Remove properties.
-Add your own elements.
-
-### `04` Break Things
-
-Don't be afraid when something stops working.
-
-**Breaking code is one of the fastest ways to understand how the browser behaves.**
-
-### `05` Build
-
-Complete the weekly assignment without simply copying the demo.
-
-Test your work on both **desktop and mobile** before submission.
+| **Move** | `W` `A` `S` `D` or `Arrow Keys` |
+| **Jump / Hold to Cape-Glide** | `Space` |
+| **Slide** | `Shift` |
+| **Attack** | `Left Click` or `J` |
+| **Switch Weapons** | `1`, `2`, `3`, `4` |
+| **Summon Bat-Bhensa** | `E` |
+| **Toggle Camera (3rd Person / Batman POV)** | `V` |
+| **Detective Vision** | `Q` |
+| **Pause** | `Esc` |
 
 ---
 
-## Instructor & Mentorship
+<details>
+<summary><b>📖 Click to Expand: Story & Stages Overview</b></summary>
 
-This repository is **curated, written, and led by Samra Arif** as part of a practical web development mentorship.
+1. **Stage 1: Gaon Street & Rooftop Chase**  
+   Patrol the village mud houses, uplay walls, and sarson fields while pursuing Desi Joker and his goons.
+2. **Stage 2: Loader Rickshaw Ambush & Puncture Shop**  
+   Survive high-speed street ambushes and uncover the betrayal at the village bicycle puncture repair shop.
+3. **Stage 3: Eent Bhatta Showdown**  
+   Confront the laser-eyed Desi Superman beside the towering brick kiln chimney using cape-glides, deflections, and the Bat-Bhensa finisher.
 
-The material focuses on the things beginners actually struggle with: understanding concepts, following code, experimenting, debugging, and gradually becoming comfortable building things on their own.
+</details>
 
-### Samra Arif
+<details>
+<summary><b>🛠️ Click to Expand: Tech Stack & Architecture</b></summary>
 
-**Software Engineer | Web & Mobile Developer**
-Mentor & Instructor
+- **3D Rendering:** Three.js (WebGL) with custom procedural textures, dynamic shadows, and twilight volumetric fog
+- **UI & State Management:** React, TypeScript, Vite, Tailwind CSS
+- **Audio Engine:** Procedural Web Audio API synthesizer for instrumental background themes and foley sound effects
+- **Prototyping:** Built with Google AI Studio (Gemini 4 Neon) and deployed on Vercel
 
-[LinkedIn](https://www.linkedin.com/in/samraarif-dev/)
-·
-[Instagram](https://www.instagram.com/samraarif_/)
-
-For questions about the material, assignments, or anything that isn't working:
-
-**Email:** `samraarif2003@gmail.com`
+</details>
 
 ---
 
-<div align="center">
+## 💻 Run Locally
 
-### Keep building. Keep inspecting elements.
-
-### And don't fear console errors.
-
-`(✿◡‿◡)`
-
-<br>
-
-If this repository helped you learn something,
-
-**consider giving it a ⭐**
-
-</div>
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/Samra-63/desi-batman-3d.git](https://github.com/Samra-63/desi-batman-3d.git)
+   cd desi-batman-3d
