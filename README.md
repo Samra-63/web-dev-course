@@ -383,6 +383,27 @@ Weekly exercises designed to make you apply the concepts yourself rather than si
 </tr>
 </table>
 
+### Phase 3: JavaScript Fundamentals & Interactive Web
+
+<table>
+<tr>
+<th width="100%" align="left">Week 07 (JavaScript Core & Control Flow)</th>
+</tr>
+<tr valign="top">
+<td>
+
+| Resource | Description | Access |
+| :--- | :--- | :--- |
+| **Lecture 13** | JavaScript Foundations: Variables (`let`/`const`), Data Types & Operators | *Upcoming* |
+| **Session 13 Demo** | Console Lab & Basic Expressions | *Upcoming* |
+| **Lecture 14** | Control Flow: Conditionals (`if/else`, `switch`) & Loops (`for`, `while`) | *Upcoming* |
+| **Session 14 Demo** | Logic Building & Loop Exercises | *Upcoming* |
+| **Assignment 07** | *Upcoming* | — |
+
+</td>
+</tr>
+</table>
+
 > New weekly modules, code demos, and assignment PDFs are committed every weekend.
 
 ## How to Use This Repository
